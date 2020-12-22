@@ -1,0 +1,15 @@
+{
+  "generator-svelte": {
+    "promptValues": {
+      "authorName": "dcodes.dev",
+      "authorEmail": "cvdkhoa@gmail.com",
+      "authorWebsite": "dcodes.dev",
+      "title": "dcodes.dev",
+      "scriptLang": "JavaScript",
+      "styleLang": "SCSS",
+      "markupLang": "HTML",
+      "gitInit": true,
+      "packageManager": "Yarn"
+    }
+  }
+}
