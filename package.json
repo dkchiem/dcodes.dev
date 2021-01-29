@@ -8,7 +8,8 @@
   },
   "scripts": {
     "build": "rollup -c",
-    "dev": "rollup -c -w"
+    "dev": "rollup -c -w",
+    "start": "sirv public --single --host 0.0.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.10",
@@ -37,6 +38,7 @@
   "dependencies": {
     "rellax": "^1.12.1",
     "scroll-out": "^2.2.12",
-    "scrollmagic": "^2.0.8"
+    "scrollmagic": "^2.0.8",
+    "sirv-cli": "^1.0.10"
   }
 }
